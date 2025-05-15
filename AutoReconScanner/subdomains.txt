@@ -1,0 +1,13 @@
+www
+mail
+ftp
+localhost
+webmail
+test
+cpanel
+admin
+api
+dev
+portal
+blog
+vpn

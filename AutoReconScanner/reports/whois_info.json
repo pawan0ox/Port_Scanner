@@ -1,0 +1,18 @@
+{
+    "test.com": {
+        "domain_name": "TEST.COM",
+        "registrar": "Network Solutions, LLC",
+        "creation_date": "1997-06-18 04:00:00",
+        "expiration_date": "2027-06-17 04:00:00",
+        "name_servers": [
+            "NS1.SAFESECUREWEB.COM",
+            "NS2.SAFESECUREWEB.COM",
+            "NS3.SAFESECUREWEB.COM"
+        ],
+        "emails": [
+            "domain.operations@web.com",
+            "rj9au8e24nq@networksolutionsprivateregistration.com",
+            "ju5rq3jg28s@networksolutionsprivateregistration.com"
+        ]
+    }
+}

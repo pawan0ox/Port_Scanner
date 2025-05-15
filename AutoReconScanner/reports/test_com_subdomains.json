@@ -1,0 +1,15 @@
+{
+    "www.test.com": "52.6.51.18",
+    "mail.test.com": "69.167.164.199",
+    "ftp.test.com": "69.167.164.199",
+    "localhost.test.com": "69.167.164.199",
+    "webmail.test.com": "69.167.164.199",
+    "test.test.com": "69.167.164.199",
+    "cpanel.test.com": "69.167.164.199",
+    "admin.test.com": "69.167.164.199",
+    "api.test.com": "69.167.164.199",
+    "dev.test.com": "69.167.164.199",
+    "portal.test.com": "69.167.164.199",
+    "blog.test.com": "69.167.164.199",
+    "vpn.test.com": "69.167.164.199"
+}

@@ -1,0 +1,113 @@
+{
+    "subdomains": {
+        "www.test.com": "52.6.51.18",
+        "mail.test.com": "69.167.164.199",
+        "ftp.test.com": "69.167.164.199",
+        "localhost.test.com": "69.167.164.199",
+        "webmail.test.com": "69.167.164.199",
+        "test.test.com": "69.167.164.199",
+        "cpanel.test.com": "69.167.164.199",
+        "admin.test.com": "69.167.164.199",
+        "api.test.com": "69.167.164.199",
+        "dev.test.com": "69.167.164.199",
+        "portal.test.com": "69.167.164.199",
+        "blog.test.com": "69.167.164.199",
+        "vpn.test.com": "69.167.164.199"
+    },
+    "ports": {
+        "www.test.com": {
+            "ip": "52.6.51.18",
+            "open_ports": []
+        },
+        "mail.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "ftp.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "localhost.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "webmail.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "test.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "cpanel.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "admin.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "api.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "dev.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "portal.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "blog.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        },
+        "vpn.test.com": {
+            "ip": "69.167.164.199",
+            "open_ports": []
+        }
+    },
+    "banners": {
+        "www.test.com": {},
+        "mail.test.com": {},
+        "ftp.test.com": {},
+        "localhost.test.com": {},
+        "webmail.test.com": {},
+        "test.test.com": {},
+        "cpanel.test.com": {},
+        "admin.test.com": {},
+        "api.test.com": {},
+        "dev.test.com": {},
+        "portal.test.com": {},
+        "blog.test.com": {},
+        "vpn.test.com": {}
+    },
+    "whois": {
+        "error": "module 'modules.whois_lookup' has no attribute 'main'"
+    },
+    "geoip": {
+        "error": "expected str, bytes or os.PathLike object, not dict"
+    },
+    "cve": {
+        "www.test.com": {},
+        "mail.test.com": {},
+        "ftp.test.com": {},
+        "localhost.test.com": {},
+        "webmail.test.com": {},
+        "test.test.com": {},
+        "cpanel.test.com": {},
+        "admin.test.com": {},
+        "api.test.com": {},
+        "dev.test.com": {},
+        "portal.test.com": {},
+        "blog.test.com": {},
+        "vpn.test.com": {}
+    },
+    "shodan": {
+        "error": "main() takes 0 positional arguments but 2 were given"
+    },
+    "ssl": {
+        "error": "main() takes 0 positional arguments but 2 were given"
+    }
+}

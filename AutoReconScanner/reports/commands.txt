@@ -1,0 +1,20 @@
+# 1. Subdomain Enumeration
+python modules\subdomain_enum.py -w wordlist.txt -o reports\google_com_subdomains.json google.com
+
+# 2. Port Scanning
+python modules\port_scanner.py reports\google_com_subdomains.json
+
+# 3. Banner Grabbing
+python modules\banner_grabber.py reports\google_com_ports.json
+
+# 4. WHOIS Lookup
+python modules\whois_lookup.py reports\google_com_subdomains.json
+
+# 5. GeoIP Lookup
+python modules\geoip_lookup.py reports\google_com_banners.json
+
+# 6. CVE Detection
+python modules\cve_detection.py reports\google_com_ports.json
+
+# 7. Generate HTML Report (Custom Script)
+python generate_html_report.py
